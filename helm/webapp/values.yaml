@@ -8,7 +8,7 @@ image:
   repository: goformurali/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: b62c73e12923f224d47bc75cc21ede80b10ebd6c
+  tag: 027d89c3f6d369fe535488396302e397511f8e65
 
 imagePullSecrets: []
 nameOverride: ""
